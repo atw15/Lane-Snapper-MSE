@@ -11,8 +11,7 @@ This repository contains the code and data for the Management Strategy Evaluatio
 - [Code Overview](#code-overview)
 - [References](#references)
 - [Acknowledgments](#acknowledgments)
-- [License](#license)
-- [Contact](#contact)
+
 
 ## Project Structure
 
