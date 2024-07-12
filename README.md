@@ -71,7 +71,7 @@ The following libraries are used in the analysis:
 - `openxlsx`
 - `ggplot2`
 
-### Initial Setup
+# Initial Setup
 ```r
 # Load Libraries
 ...
