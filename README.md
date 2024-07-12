@@ -12,9 +12,9 @@
 ## Objectives
 
 The objectives of this MSE analysis are:
-1. To examine the implications of the updates to the DLM Toolkit model set-up that would explain some of the differences between this analysis and the SEDAR results.
-2. To determine whether the revised growth estimates influence the selection of the best Management Procedure (MP) for setting the quota.
-3. To evaluate whether size limits should be adjusted considering this new information.
+1. To examine the implications of the updates to the DLM Toolkit model set-up.
+2. To determine whether revised growth estimates influence the selection of the best Management Procedure (MP) for setting the quota.
+3. To evaluate whether size limits should be adjusted considering the new growth estimates.
 
 ## Methodology
 
